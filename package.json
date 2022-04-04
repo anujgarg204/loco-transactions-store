@@ -1,0 +1,20 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "RESTFUL API for LOCO Backend assessment. Designed for key accounting operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-router": "^0.0.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
+  },
+  "keywords": []
+}
